@@ -2,7 +2,8 @@
 This is my public portfolio for 94870 Telling Stories with Data
 
 # About me
-![mimi](https://user-images.githubusercontent.com/112348105/188168401-4e687f68-8d22-4b10-8b76-e1c51a4c1523.jpg)
+![mimi cropped](https://user-images.githubusercontent.com/112348105/188168840-4e148927-84a9-44fe-8c0f-5ca4f3fe759a.jpg)
+
 <br /> 
 My name is Mimi Vinaiphat, a second-year student MSPPM-DA student at Heinz College, Carnegie Mellon University. I come from Bangkok, a capital city of Thailand. I  earned a BSc in statistics from Chulalongkorn University, Thailand. Prior joining Heinz, I work for the Office of Insurance Commission (OIC) which is one of the financial regulator in Thailand, as an insurance product supervisor. OIC is similar to the National Association of Insurance Commissioner (NAIC) in the States.
 
