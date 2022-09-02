@@ -12,7 +12,7 @@ During my summer, I interned at the NAIC as a macropudential risk intern, based 
 I hope to learn about the technique to visualize data in a better and easier way. Data is all around us, and can tell many stories about it. However, sometimes it is very hard to visualize and summarize these data into a version that everyone can understand and easy to depict. There are tons of data available in the insurance industry and I hope that I can present these meaningful data in a way that those who have no knowledge would understand. 
 
 # Portfolio
- <br /> _Assignment 2 : Data Visualization_
+_Assignment 2 : Data Visualization_
  <br /> _Assignment 2 : Crafting for Clarity_
  <br /> _Assignment 3 & 4 : Crritique by Design_
  <br /> _Final Project_
