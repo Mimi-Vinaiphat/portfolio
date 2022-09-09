@@ -6,5 +6,5 @@ With this chart, I use Florish.studio to visualize the Debt-to-GDP ratio for eac
 From the graph, we can see that most of the country have just a slightly increased in the ratio.
 However, some of the countries i.e. Greece, Japan, their ratio have gone up significantly througout the year, with approximately ratio of 260 in 2021. 
 These countries should be on a look-out radar.
-<div class="flourish-embed flourish-chart" data-src="visualisation/11140405"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11140405"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
