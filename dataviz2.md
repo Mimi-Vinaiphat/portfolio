@@ -16,3 +16,4 @@ These countries should be on a look-out radar.
 
 # Government Debt Data chart 2
 With this chart but with the same data from the previous chart, I have decide to 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11140784"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
