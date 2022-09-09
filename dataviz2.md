@@ -1,6 +1,6 @@
 # Government Debt Data from the original source, oecd
 The first chart that I would like to show is the bar chart
-<iframe src="https://data.oecd.org/chart/6OaX" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6OaX" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
+<iframe src="https://data.oecd.org/chart/6OaZ" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6OaZ" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
 
 <br/>
 However, let's see if we decide to present in the line chart, any different?
