@@ -14,7 +14,6 @@ My name is Mimi Vinaiphat, a second-year student MSPPM-DA student at Heinz Colle
 I hope to learn about the technique to visualize data in a better and easier way. Data is all around us, and can tell many stories about it. However, sometimes it is very hard to visualize and summarize these data into a version that everyone can understand and easy to depict. There are tons of data available in the insurance industry and I hope that I can present these meaningful data in a way that those who have no knowledge would understand. 
 
 # Portfolio
-_Assignment 2 : Data Visualization_
  <br /> _Assignment 2 : Visualizing Government Debt_
  <br /> [Here's the link to my data visualization for my assignment 2](/dataviz2.md)
  <br /> _Assignment 3 & 4 : Crritique by Design_
