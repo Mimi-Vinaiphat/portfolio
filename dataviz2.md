@@ -21,6 +21,9 @@ With this chart but with the same data from the previous chart, I have decide to
 I choose to use the row filter function so we can see each country separately by clicking at the country's name. I use the dots for an easier mapping between year and ratio. As for the y-axis, I have tried to move them to the left but after playing around, I still cannot find a way to undo this. I have also adjust the min-max of the y-axis to align with each countries as I don't think that they have to start the same as we show the graph for each country separately.
 
 <br/>
+I also add the title, and some description about what the ratio means and how the audience can interpret it as some people might not have knowledge about what the debt and gdp represent and it will help with the understanding.
+
+<br/>
 Personally, I would like to have all countries show in the same grpah so it is easier to compare. I plan to have the top 3 and the average OECD to be shown in different colors in order to represent each catagory (country) and have the rest of the countries to be in grey. However, I cannot find a way to do it. So this might be the most closest that you could get. Fr
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11140784"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
