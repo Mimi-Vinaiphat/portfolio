@@ -16,7 +16,7 @@ I hope to learn about the technique to visualize data in a better and easier way
 # Portfolio
 _Assignment 2 : Data Visualization_
  <br /> _Assignment 2 : Visualizing Government Debt_
- <br /> Here's the link to my data visualization for my assignment 2 (/dataviz2.md)
+ <br /> [Here's the link to my data visualization for my assignment 2](/dataviz2.md)
  <br /> _Assignment 3 & 4 : Crritique by Design_
  <br /> _Final Project_
 
