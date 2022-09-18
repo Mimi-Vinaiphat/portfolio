@@ -73,7 +73,7 @@ At first I am thinking about separate the graphs into grids of charts, with each
 Below would be the first sketch of the graph, in example of the Q4 2021
 <br/>
 ![sketch1]
-
+<br/>
 You can see that there are still too much information in here, even though I have already separate into time period. Some labels have a very small amount.
 So I think that maybe we can group them tegether. If the audience would like to know more, they can look up from the orginal sources.
 For here, I just would like to show the amount and proportion between each product group.
@@ -100,6 +100,7 @@ She feels that for pie chart, theres no need to have the axis separated for each
 However, she would rather use bar chart as to see the trend  as we already know the proportion from the %. 
 Using bar chart would make more sense for her.
 <br/> 
+<br/>
 Friend 2: She also understand what the graph is really about and is no surprised or confused by the results.
 She also agrees with the 1st friend that i should not use the pie chart, a bar chart would be better. 
 However, she suggests to use the time series to see the trends or seasonality compareing for each products in each time. (stack the groups in each period)
