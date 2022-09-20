@@ -103,7 +103,7 @@ Using bar chart would make more sense for her. So these are some sketched from h
 <br/> ![friend1](https://user-images.githubusercontent.com/112348105/191294534-55ad2a37-f359-43f8-934b-fd4e5711b406.png)
 
 <br/>
-Friend 2: She also understand what the graph is really about and is no surprised or confused by the results. Audiences are either regulator or insurance companies.
+Friend 2: She also understands what the graph is really about and is no surprised or confused by the results. Audiences are either regulator or insurance companies.
 She also agrees with the 1st friend that i should not use the pie chart, a bar chart would be better. 
 However, she suggests to use the time series to see the trends or seasonality compareing for each products in each time. (stack the groups in each period)
 Then add the line (trend) connected between each product groups to see the movement (kinda like the original chart with no table, take out the old line, but then add 3 lines to see the movement) She would also add the amount for each categories in the stack.
@@ -122,8 +122,8 @@ I also change the way data is represented. Instead of using cumulative data i.e.
 Title has been editted to be more clear that its the total premium for life insurance industry only.
 <br/>
 <br/>
-I have tried to use eith tableau or flourish to recreate from my sketch however, what I get is 2 different graph.
-One about the stack bar that compare betweeb each product type within the same time period.
+I have tried to use with tableau or flourish to recreate from my sketch however, the results are not what I intended.
+One about the stack bar that compares between each product type within the same time period.
 ![stack](https://user-images.githubusercontent.com/112348105/191297863-c56f52f2-0b13-4d65-b38a-8d5193a85887.png)
 
 But when I tried to have the line chart to show the movement (trend) change for each product, I cannot get it done.
