@@ -3,7 +3,7 @@
 source: OIC quarterly report on Life insurance company YE 2021.
 <br/>
 
-#The story / Description of the graph
+# The story / Description of the graph
 This graph was part of the report about the life insurance industry in thailand. This one was aiming to show and compare 
 between the direct premium for each of the life insurance; hence the label from the right table (PA_MAIN, RIDER, etc)
 The reason I purposely choose this graph is because the data is about the insurance industry that I would be working once I go back. 
@@ -11,13 +11,13 @@ However, this graph has both pros and cons and there are some areas that are con
 I hope that after doing this class, I could help make a better visualization using the technique I learn in this course.
 <br/>
 
-#In this part, I will critique on the graph using Stephen Few's Data Visualization Effectiveness Profile.
+# In this part, I will critique on the graph using Stephen Few's Data Visualization Effectiveness Profile.
 <br/>
 ## Usefulness and Completeness (8/10, 8/10)
-The graph is quite useful for those who are in the life insurance industry. It did tells you about the direct premium of each life insurance product, 
+The graph is quite useful for those who are in the life insurance industry. It did tell you about the direct premium of each life insurance product, 
 comparison between each time period (year-to-date), both in terms of value and the percentage changed. 
 However, it might take times trying to understand all the details and information presented. Personally I think that the graph and charts presented TOO MUCH information.
-Not all the information has to be presented such as the line above the graph as it made some confusion on what it represent. 
+Not all the information has to be presented such as the line above the graph as it made some confusion on what it represents. 
 I also think that we may not need to show the historial data dated back to 2019 as this created too much bar to compare.
 This could be break down into several graphs which I would be showing in my redesign of the data visualization.
 <br/>
@@ -27,13 +27,13 @@ For this section, I think that this graph does not represent the info as good as
 It is quite hard to understand the graph even though you are in the industry, so don't talk about those who have no idea about what the graph is about.
 Moreover, if you look closely to the graph, you would see that the grpah shows comparison in quarters. 
 At first glance, you would think that Q2 would be the amount of Q2, however, it is not the case. The Q2 data is accumulated from Q1. 
-Thus what Q4 represent would be the toal direct premium in the year, not just from October to December. This is really deceptive!
+Thus Q4 represents the total direct premium in the year, not just from October to December. This is really deceptive!
 <br/>
 
 ## Truthfulness (3/10)
 Here, I think it is little bit link back to the perceptibility. 
 From graph and table, you would think that there is an increasing trend for every quester as the amount has increased.
-But that is not the case, Q2 data is accumulate from Q1, Q3 is also from Q2. Therefore, it would always be an increasing trend.
+But that is not the case, Q2 data is accumulate from Q1, Q3 is also from Q2. Therefore, it will always be in an increasing trend!.
 This could mislead the audience. I feel that either it should say something about this, or just show the premium amount in each Q2.
 <br/>
 
@@ -42,12 +42,12 @@ This one is a bit difficult. For those in the insurance industry, the graph and 
 Not only that, all the labels, terminology are what we see everyday at work. 
 However, for those who are not in the industry, everything would not make any sense as there is no instructions and description. 
 Both graph and tables can convey all the information presented but personally, they may be too much. 
-Audiences are bombbarded with information, that some are not useful i.e. the line line above the bar.
+Audiences are bombbarded with information, that some are not useful or says nothing i.e. the line line above the bar.
 <br/>
 
 ## Aesthetic (3/10)
 The graph are quite hard and not atractive, especially for those who has no interested in the first place.
-Like I have already mentioned, the whole thing could break dwon into many graphs so audiences do not feel that they have to get everything at once.
+Like I have already mentioned, the whole thing could break down into many graphs so audiences do not feel that they have to get everything at once.
 The quarter could break down into each separate graphs. The types of products could be group together based on the main group.
 <br/>
 
@@ -58,13 +58,13 @@ However, for those who not thie main target, these graph would bore them to deat
 <br/>
 
 ## What missed from the critique?
-I thinkthat this method is great in terms of reviewing the data completeness, 
+I think that this method is great in terms of reviewing the data completeness, 
 how well audience can take things out from the visualization which at first I would not think about this area. 
 However, with this method, it does not take into account of the layout, the color, the font like in other assignments we have to do. 
 Based on the original chart, I would tone down the color. 
-I cannot change the whole color theme as I have just realized that it is the company’s color scheme. 
+I cannot change the whole color theme as I have just realized that it is the OIC’s color scheme. 
 I would print out the title in bold black, unlike the original that used the gold with blue background as it takes out too much of the attention from the graph. 
-I think that I will take out the tables and present only the graph as you can see the information from the graph alone (after I redesign the graph)
+I think that I will take out the tables and present only the graph as you can see the information from the graph alone.
 
 # So now that we have critqued on how well the graph represent in regards of information, aesthetic, completeness, and also some about color / layout.
 We will now redesign the graph!
