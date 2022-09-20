@@ -1,0 +1,14 @@
+# Outline of my final project
+## Where has the most dog in NYC?
+For this final project, I am interested in where / which area in NYC that has the most dogs. 
+The reason that this could be very helpful is that in SF, they have initiated the pit stop public toilets in 2014 to 
+provide the public toilets used and a safe spot to dispose of used needles and bags to dispose dog’s waste.
+By identifying the area that has most dogs, we could aim to increase the disposure spot for dog poop, for a clean street.
+Ohh one big bonus, we could use this data to see the area where you could meet and play with tons of dogs, happy place for dog lovers!
+<br/>
+### Data Used
+Opendata NYC has provided a publicly accessible data regarding with the dog licenses.
+In this dataset, it will tell the dog's name, breed, date of birth. 
+Data about the whereabout of the dig (zipcode) is already provided. 
+I aim to use the zipcode to map with the NYC area.
+https://data.cityofnewyork.us/Health/NYC-Dog-Licensing-Dataset/nu7n-tubp
