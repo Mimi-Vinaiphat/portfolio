@@ -18,5 +18,6 @@ I hope to learn about the technique to visualize data in a better and easier way
  <br /> _Assignment 3 & 4 : Critique by Design_
  <br/> [Here's the link to my assignment 3&4](/critique3.md)
  <br /> _Final Project_
+  <br/> [Here's the link to first part of my final project (outline)](/final_project_1_mimi.md)
 
 # Hope you will enjoy reading through my portfolio
