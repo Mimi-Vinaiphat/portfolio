@@ -19,7 +19,7 @@ I aim to use the zipcode to map with the NYC area.
 https://data.cityofnewyork.us/Health/NYC-Dog-Licensing-Dataset/nu7n-tubp
 
 2. New York City zipcode list and map
-New York Vity has many zipcodes that could be mapped into 5 big borough: Manhattan, Bronx, Queens, Brooklyn, and Staten Island.
+New York City has many zipcodes that could be mapped into 5 big borough: Manhattan, Bronx, Queens, Brooklyn, and Staten Island.
 Howover in order to map the zipcode provided in the dog licensing dataset with area, we need another set of information.
 From this website (https://bklyndesigns.com/new-york-city-zip-code/) All zipcodes are not only map with borough, they also map within each neighborhood such as East Harlem, Upper West Side, Lower Manhattan etc.
 
@@ -34,8 +34,7 @@ So I think that this also could be implemented in NYC as sometimes its hard to f
 <br/>
 Then will show the stats of where are most dogs located~
 <br/>
-
-<div class='tableauPlaceholder' id='viz1663873007674' style='position: relative'><noscript><a href='#'><img alt='Where are the dogs? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;wh&#47;wherearethedogs&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='wherearethedogs&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;wh&#47;wherearethedogs&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
+<div class='tableauPlaceholder' id='viz1663873007674' style='position: relative'><noscript><a href='#'><img alt='Where are the dogs? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;wh&#47;wherearethedogs&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='wherearethedogs&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;wh&#47;wherearethedogs&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>               <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1663873007674');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
   vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
