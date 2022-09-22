@@ -47,6 +47,7 @@ So I think that this also could be implemented in NYC as sometimes its hard to f
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 <br/>
+<br/>
 But beyond that, what else can you also do with the data?
 <br/>
 See which types of dogs are most owned in NYC
