@@ -51,7 +51,8 @@ See which types of dogs are most owned in NYC
 <br/> In which area / zipcode / neighborhood i.e. my favourite dogs are siberian and shiba.
 
 <br/> I will filter only siberian and shiba to see which area has the most of these type!
-![image](https://user-images.githubusercontent.com/112348105/191811349-722159b5-8d10-43eb-b26a-c3ca1206df9a.png)
+![dogsarea](https://user-images.githubusercontent.com/112348105/191811349-722159b5-8d10-43eb-b26a-c3ca1206df9a.png)
+<br/>
 Best thing, increasing your chances to meet with your favourite kinds of dogs or the flip side, see which types of dogs you would see most in your home area!
 <br/>
 
