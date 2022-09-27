@@ -58,7 +58,7 @@ See which types of dogs are most owned in NYC
 <br/>
 Best thing, increasing your chances to meet with your favourite kinds of dogs or the flip side, see which types of dogs you would see most in your home area!
 <br/>
-So here are some exmaples on what you can do with the data. Still I would like to focus that with this visualization, NYC officers could use this to set up more disposable stops that provides bags to pick up dog's waste. With Less dog's waste on the street, newyorker could have a better environment and less scred of stepping on the poops!
+<br/> So here are some examples on what you can do with the data. Still I would like to focus that with this visualization, NYC officers could use this to set up more disposable stops that provides bags to pick up dog's waste. With Less dog's waste on the street, newyorker could have a better environment and less scared of stepping on the poops!
 
 ### Method and Medium
 I will be using Shorthand as a flatform to showcase my project which would also be the main program used during my presentation. I saw from examples and feel that as Shortland doesnt come in slides, it might get more attention from the audiences. 
