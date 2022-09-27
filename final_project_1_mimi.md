@@ -5,7 +5,6 @@ The reason that this could be very helpful is that in SF, they have initiated th
 provide the public toilets used and a safe spot to discard of used bags to dispose dog’s waste.
 By identifying the area that has most dogs, we could aim to increase the disposure spot for dog poop, for a cleaner street.
 Ohh one big bonus, we could use this data to see the area where you could meet and play with tons of dogs, happy place for dog lovers!
-
 <br/> So in all, I want to know whereare most dogs located in NYC so that I can try to see where would be the best prime location for putting up dog's disposal station.
 <br/>
 ### Data Used
