@@ -22,5 +22,8 @@ I have put together the interview scripts and the responses from the interviewee
 <br/>
 | Script | Responses from 1st | Responses from 2nd | Responses from 3rd
 | --- | --- | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Do you understand what I try to say | With this, THere might be more stations that provide stuff to pick up dog's poop if I forget. |The first part might be be really relevant but 
+| What do you think of the flow of the story | Show file differences that haven't been staged |
+| How do you think of the graph | Show file differences that haven't been staged |
+| How do you think of the mood, tone, color | Show file differences that haven't been staged |
+| Anything else do you want to change | Show file differences that haven't been staged |
