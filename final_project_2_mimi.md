@@ -18,12 +18,26 @@ As there is a bit impossible to interview the NYC officers, I plan to interview 
 2nd respondant: Female, non-US, own dogs back home
 3rd respondant: Female, non-US, do not own a dog but love to play with dogs
 <br/>
-I have put together the interview scripts and the responses from the interviewees in the tables below.
+I have put together the interview scripts and the responses below
 <br/>
-| Script | Responses from 1st | Responses from 2nd | Responses from 3rd
-| --- | --- | --- | --- |
-| Do you understand what I try to say | With this, THere might be more stations that provide stuff to pick up dog's poop if I forget. |The first part might be be really relevant but 
-| What do you think of the flow of the story | Show file differences that haven't been staged |
-| How do you think of the graph | Show file differences that haven't been staged |
-| How do you think of the mood, tone, color | Show file differences that haven't been staged |
-| Anything else do you want to change | Show file differences that haven't been staged |
+
+
+Script with responses
+1. What do you think of the flow of the story?
+<br/> All three respondee understand the message that I try to convey. However, they still think that they are a bit jumpy.
+They also say that the second part (where are the most dogs) are a bit too long and kind of irrelevant to the main message.
+3rd respondee says that she is not sure whether I should out the bonus (where the dogs are) first before the main message if I would like to mention this as she thinks that the bonus take aways the attention from the key message.
+
+<br/>
+2. Can you describe what this is telling you?
+They all can grabs the idea that I would like to sned the message how it would be better if we can have dog disposable stations. However, the 2nd respondee says that I might need more story to persuade no why the department needs to implement the program. She still doesnt convey or get persuaded enough if shes the officer.
+She thinks that it would be more impactful if I could find some evidence of poops on the ground, or any complaints regarding the feces on the street or maybe how bad it would be with them on the ground. 
+
+<br/>
+3. Anything you find surprising or confusing?
+2nd respondee says that she is not sure that I should keep the bonus as it is a bit confusing on why I have included it.
+However, she is a bit surprise that most of the dogs are located in 10025 which is in upper west side as she first thought it would be in either brroklyn / queens with bigger area to live. Manhattan doesnt have lots of houses as most people live in apartment from what she guesses.
+
+<br/>
+4. Anything that you think I need to change, i.e. color, types of graph, typography etc?
+1st respondee says that shes not sure about the circle grpah that I use to show the top 20 of the most dog breed in NYC. She feels that it doesnt really reflect the proportion of the dogs or show the differnt in sizes. Bar chart might be better to show the proportion. 
