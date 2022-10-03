@@ -30,14 +30,15 @@ They also say that the second part (where are the most dogs) are a bit too long 
 
 <br/>
 2. Can you describe what this is telling you?
-They all can grabs the idea that I would like to sned the message how it would be better if we can have dog disposable stations. However, the 2nd respondee says that I might need more story to persuade no why the department needs to implement the program. She still doesnt convey or get persuaded enough if shes the officer.
+<br/> They all can grabs the idea that I would like to sned the message how it would be better if we can have dog disposable stations. However, the 2nd respondee says that I might need more story to persuade no why the department needs to implement the program. She still doesnt convey or get persuaded enough if shes the officer.
 She thinks that it would be more impactful if I could find some evidence of poops on the ground, or any complaints regarding the feces on the street or maybe how bad it would be with them on the ground. 
 
 <br/>
 3. Anything you find surprising or confusing?
-2nd respondee says that she is not sure that I should keep the bonus as it is a bit confusing on why I have included it.
-However, she is a bit surprise that most of the dogs are located in 10025 which is in upper west side as she first thought it would be in either brroklyn / queens with bigger area to live. Manhattan doesnt have lots of houses as most people live in apartment from what she guesses.
+<br/> 2nd respondee says that she is not sure that I should keep the bonus as it is a bit confusing on why I have included it.
+However, she is a bit surprise that most of the dogs are located in 10025 which is in upper west side as she first thought it would be in either Brooklyn / Queens with bigger area to live. Manhattan doesnt have lots of houses as most people live in apartment from what she guesses.
 
 <br/>
 4. Anything that you think I need to change, i.e. color, types of graph, typography etc?
-1st respondee says that shes not sure about the circle grpah that I use to show the top 20 of the most dog breed in NYC. She feels that it doesnt really reflect the proportion of the dogs or show the differnt in sizes. Bar chart might be better to show the proportion. 
+<br/> 1st respondee says that shes not sure about the circle graph that I use to show the top 20 of the most dog breed in NYC. She feels that it doesnt really reflect the proportion of the dogs or show the differnt in sizes. Bar chart might be better to show the proportion. 3rd respondee says that the story uses too many pictures and leaves with too much of spaces. She feels that the sotry could be shorter by grouping text together in some of the slides i.e. text after the blue map.
+
