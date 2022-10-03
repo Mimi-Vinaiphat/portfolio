@@ -26,11 +26,11 @@ Script with responses
 1. What do you think of the flow of the story?
 <br/> All three respondee understand the message that I try to convey. However, they still think that they are a bit jumpy.
 They also say that the second part (where are the most dogs) are a bit too long and kind of irrelevant to the main message.
-3rd respondee says that she is not sure whether I should out the bonus (where the dogs are) first before the main message if I would like to mention this as she thinks that the bonus take aways the attention from the key message.
+3rd respondee says that she is not sure whether I should put the bonus (where the dogs are) first before the main message if I would like to mention this as she thinks that the bonus take aways the attention from the key message.
 
 <br/>
 2. Can you describe what this is telling you?
-<br/> They all can grabs the idea that I would like to sned the message how it would be better if we can have dog disposable stations. However, the 2nd respondee says that I might need more story to persuade no why the department needs to implement the program. She still doesnt convey or get persuaded enough if shes the officer.
+<br/> They all can grab the idea that I would like to send the message how it would be better if we can have dog disposable stations. However, the 2nd respondee says that I might need more story to persuade no why the department needs to implement the program. She still doesnt convey or get persuaded enough if shes the officer.
 She thinks that it would be more impactful if I could find some evidence of poops on the ground, or any complaints regarding the feces on the street or maybe how bad it would be with them on the ground. 
 
 <br/>
@@ -40,5 +40,5 @@ However, she is a bit surprise that most of the dogs are located in 10025 which 
 
 <br/>
 4. Anything that you think I need to change, i.e. color, types of graph, typography etc?
-<br/> 1st respondee says that shes not sure about the circle graph that I use to show the top 20 of the most dog breed in NYC. She feels that it doesnt really reflect the proportion of the dogs or show the differnt in sizes. Bar chart might be better to show the proportion. 3rd respondee says that the story uses too many pictures and leaves with too much of spaces. She feels that the sotry could be shorter by grouping text together in some of the slides i.e. text after the blue map.
+<br/> 1st respondee says that shes not sure about the circle graph that I use to show the top 20 of the most dog breed in NYC. She feels that it doesnt really reflect the proportion of the dogs or show the differnt in sizes. Bar chart might be better to show the proportion. 3rd respondee says that the story uses too many pictures and leaves with too much of spaces. She feels that the story could be shorter by grouping text together in some of the slides i.e. text after the blue map.
 
