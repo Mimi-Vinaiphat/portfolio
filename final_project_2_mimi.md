@@ -21,7 +21,6 @@ As there is a bit impossible to interview the NYC officers, I plan to interview 
 I have put together the interview scripts and the responses below
 <br/>
 
-
 Script with responses
 1. What do you think of the flow of the story?
 <br/> All three respondee understand the message that I try to convey. However, they still think that they are a bit jumpy.
