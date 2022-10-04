@@ -35,7 +35,7 @@ She thinks that it would be more impactful if I could find some evidence of poop
 <br/>
 3. Anything you find surprising or confusing?
 <br/> 2nd respondee says that she is not sure that I should keep the bonus as it is a bit confusing on why I have included it.
-However, she is a bit surprise that most of the dogs are located in 10025 which is in upper west side as she first thought it would be in either Brooklyn / Queens with bigger area to live. Manhattan doesnt have lots of houses as most people live in apartment from what she guesses.
+However, she is a bit surprise that most of the dogs are located in 10025 which is in upper west side as she first thought it would be in either Brooklyn / Queens with bigger area to live. Manhattan doesnt have lots of houses as most people live in apartment from what she would guess.
 
 <br/>
 4. Anything that you think I need to change, i.e. color, types of graph, typography etc?
