@@ -41,3 +41,8 @@ However, she is a bit surprise that most of the dogs are located in 10025 which 
 4. Anything that you think I need to change, i.e. color, types of graph, typography etc?
 <br/> 1st respondee says that shes not sure about the circle graph that I use to show the top 20 of the most dog breed in NYC. She feels that it doesnt really reflect the proportion of the dogs or show the differnt in sizes. Bar chart might be better to show the proportion. 3rd respondee says that the story uses too many pictures and leaves with too much of spaces. She feels that the story could be shorter by grouping text together in some of the slides i.e. text after the blue map.
 
+## Feedback from class
+<br/> For the final round of feedback, I have got more suggestions from classmate.
+<br/> 1. I could highlight some text that are worth mentioning as they think that as I have quite lots of text, the focus might be off.
+<br/> 2. They like the idea that I have put the call to action to the end as it reminds them again on what I am asking for.
+<br/> 3. They enjoy going through all photos of doggies!
