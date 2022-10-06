@@ -21,7 +21,8 @@ I hope to learn about the technique to visualize data in a better and easier way
  <br/> [Here's the link to first part of my final project (outline)](/final_project_1_mimi.md)
  <br/> [Here's the link to second part of my final project (storyboard and user research)](/final_project_2_mimi.md)
  <br/> [Here's the link to final part of my final project (Final Deliverable)](/final_project_3_mimi.md)
- <br/> And my shorthand story [Where should we put more dog disposable stations]()
+ <br/> And my shorthand story 
+ <br/> [Where should we put more dog disposable stations]()
  
  
 # Hope you will enjoy reading through my portfolio
