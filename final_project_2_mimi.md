@@ -1,5 +1,5 @@
 # Part 2 of my Final Project
-After I have outlined the story in part 1, in this part, we will see the wireframe and storyboard
+After I have outlined the story in [part 1](https://mimi-vinaiphat.github.io/portfolio/final_project_1_mimi.html) , in this part, we will see the wireframe and storyboard
 on how I intend to stell my stories regarding with where are most dogs in NYC and how we can creat a better NYC with the data.
 
 ## Wireframe and Storyboard
