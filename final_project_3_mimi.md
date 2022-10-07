@@ -28,8 +28,10 @@ Ohh, some parts of the texts are either bold / underline / font colored or mixed
 
 ## Do I hook this with my audience?
 For this project, my target audiences can be divided into 2 big groups.
+<br/>
 <br/>   First would be the NYC state department officer who are responsible for the sanitizaing the sidewalks or those who can make decision on the budget allocation. They are one of the main audiences as they would be the people who would make decisions on implementing / installing the dog disposable stations. Therefore, we have to include or visualize some map to show where would be the best areas for the implementation.
-<br/>   Second targeted audience would be the dog owners residing in the NYC. With these visualization, they could estimate on where would the stations be and it could lead them to take more dogs over there as they know that there will be some dog disposable stations provided. They could also be reminded that there are some areas that got complaints on dog waste / dirty sidewalk. This could help raise awareness on the cleanliness of the street and bemindful to other pedustrians too.
+<br/>   
+<br/> Second targeted audience would be the dog owners residing in the NYC. With these visualization, they could estimate on where would the stations be and it could lead them to take more dogs over there as they know that there will be some dog disposable stations provided. They could also be reminded that there are some areas that got complaints on dog waste / dirty sidewalk. This could help raise awareness on the cleanliness of the street and bemindful to other pedustrians too.
 <br/> 
 
 ## What I learned along the way
