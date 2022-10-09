@@ -27,7 +27,7 @@ Officers who are one of the main targeted audiences could use this supportive gr
 I have also adjusted some of the word texts to be shorter, more focus. 
 Some parts of the texts are either bold / underline / font colored or mixed to highlight the key takeaways as per the feedback as wells.
 <br/>
-<br/> However, after a long consideration regarding the user research, feedbacks from classmate, and from TA, I have decided to take the bonus section out, leaving with only the stations. At first, I would like to combine both sections together but there are some concerns and feedback from lots commentators that they do not feel the connection and that makes the story a bit confusing. I have tried sevaral ways to incorporate this but, sadly, found none. Therefore, I have decided to take this part out and focus more on the stations.
+<br/> However, after a long consideration regarding the user research, feedbacks from class, I have decided to take the bonus section out, leaving with only the stations. At first, I would like to combine both sections together but there are some concerns and feedback from lots commentators that they do not feel the connection and that makes the story a bit confusing. I have tried sevaral ways to incorporate this but, sadly, found none. Therefore, I have decided to take this part out and focus more on the stations.
 
 ## Do I hook this with my audience?
 For this project, my target audiences can be divided into 2 big groups.
