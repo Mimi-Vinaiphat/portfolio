@@ -21,10 +21,13 @@ This includes that feedback from classes as well.
 ## Revision for part 3: Final Deliverable
 Therefore in this part, I incorporate all the feedbacks from part 1, part 2, and revise on my draft.
 I have included more supportive data regarding the complaints on dogs feces on the street to cement my statement and help raise the awareness of dogs owner. 
-Officers who are one of the main targeted audiences could use this supportive graph to show that there are some complaints regarding eith dirty sidewalk made of dog waste. 
-And that it is beneficial to install dog disposable stations in area where there are most dogs and/or most complaints.
+Officers who are one of the main targeted audiences could use this supportive graph to show that there are some complaints regarding with dirty sidewalk made of dog waste. 
+<br/> 
+<br/> And that it is beneficial to install dog disposable stations in area where there are most dogs and/or most complaints.
 I have also adjusted some of the word texts to be shorter, more focus. 
-Ohh, some parts of the texts are either bold / underline / font colored or mixed to highlight the key takeaways as per the feedback as wells.
+Some parts of the texts are either bold / underline / font colored or mixed to highlight the key takeaways as per the feedback as wells.
+<br/>
+<br/> However, after a long consideration regarding the user research, feedbacks from classmate, and from TA, I have decided to take the bonus section out, leaving with only the stations. At first, I would like to combine both sections together but there are some concerns and feedback from lots commentators that they do not feel the connection and that makes the story a bit confusing. I have tried sevaral ways to incorporate this but, sadly, found none. Therefore, I have decided to take this part out and focus more on the stations.
 
 ## Do I hook this with my audience?
 For this project, my target audiences can be divided into 2 big groups.
@@ -38,3 +41,5 @@ For this project, my target audiences can be divided into 2 big groups.
 I think that all the steps / processes that we have done since assignment 1 help shape the storyboard and what I want to include in my final project.
 Not only that, when I put on the texts / story, I try to have them coherent with each other, have clear texts and be straightforwards and that comes from critique. 
 Feedbacks from classmate, friends, those you ask help a lot in creating and adjusting the stories as they are from people who have no idea on the story. They are not me who knows everything, so sometimes they catches stuff, from an outsiders' views.
+<br/> Also, you may have to focus only one side of story and be willing to cut something out if it hinders your main goal. 
+Like when I decided to cur the bonus part out as it makes my audiences confusing.
