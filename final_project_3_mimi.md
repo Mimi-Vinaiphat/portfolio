@@ -1,7 +1,7 @@
 # Part 3 of my final project
 After I have completed the [part 1](https://mimi-vinaiphat.github.io/portfolio/final_project_1_mimi.html) and [part 2](https://mimi-vinaiphat.github.io/portfolio/final_project_2_mimi.html)
 In this part 3, I am going to summarize all the steps that I have done so far in order to complete this project.
-<br/> The link to the final deliverable is provided [here] ()
+<br/> The link to the final deliverable is provided [here] (https://carnegiemellon.shorthandstories.com/where-should-we-put-more-dog-disposable-stations.html)
 
 ## Prior to part 3: Final Deliverables
 In part 1, we need to think of what story that we would like to tell, but then you also need to have data to support your stories.
