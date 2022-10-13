@@ -14,13 +14,13 @@ I hope to learn about the technique to visualize data in a better and easier way
 
 # Portfolio
  <br /> _Assignment 2 : Visualizing Government Debt_
- <br /> [Here's the link to my data visualization for my assignment 2](/dataviz2.md)
+ <br /> [Visualizing Government Debt](/dataviz2.md)
  <br /> _Assignment 3 & 4 : Critique by Design_
- <br/> [Here's the link to my assignment 3&4](/critique3.md)
+ <br/> [Critique by Design](/critique3.md)
  <br /> _Final Project_
- <br/> [Here's the link to first part of my final project (outline)](/final_project_1_mimi.md)
- <br/> [Here's the link to second part of my final project (storyboard and user research)](/final_project_2_mimi.md)
- <br/> [Here's the link to final part of my final project (Final Deliverable)](/final_project_3_mimi.md)
+ <br/> [Final project (outline)](/final_project_1_mimi.md)
+ <br/> [Final project (storyboard and user research)](/final_project_2_mimi.md)
+ <br/> [Final project (Final Deliverable)](/final_project_3_mimi.md)
  <br/> And my shorthand story 
  <br/> [Where should we put more dog disposable stations](https://carnegiemellon.shorthandstories.com/where-should-we-put-more-dog-disposable-stations/index.html)
  
